@@ -1,0 +1,9 @@
+# MTL written from C:\Users\111\Dropbox\dve zvezdy\AssetesModo\pedestal\2\pedestal2.obj
+newmtl pedestal2_032mat
+Kd 1 1 1
+Ns 256
+d 1
+illum 2
+Ka 0 0 0
+Ks 0 0 0
+map_Kd pedestal2 tex v2.jpg

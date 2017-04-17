@@ -1,0 +1,35 @@
+﻿  Lab2.cpp
+  math_funcs.cpp
+c:\users\caleb prior\desktop\opengl_labs\lab2\math_funcs.cpp(143): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\caleb prior\desktop\opengl_labs\lab2\math_funcs.cpp(262): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\caleb prior\desktop\opengl_labs\lab2\math_funcs.cpp(266): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\caleb prior\desktop\opengl_labs\lab2\math_funcs.cpp(509): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\caleb prior\desktop\opengl_labs\lab2\math_funcs.cpp(511): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\caleb prior\desktop\opengl_labs\lab2\math_funcs.cpp(512): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\caleb prior\desktop\opengl_labs\lab2\math_funcs.cpp(513): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\caleb prior\desktop\opengl_labs\lab2\math_funcs.cpp(514): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\caleb prior\desktop\opengl_labs\lab2\math_funcs.cpp(521): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\caleb prior\desktop\opengl_labs\lab2\math_funcs.cpp(523): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\caleb prior\desktop\opengl_labs\lab2\math_funcs.cpp(524): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\caleb prior\desktop\opengl_labs\lab2\math_funcs.cpp(525): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\caleb prior\desktop\opengl_labs\lab2\math_funcs.cpp(526): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\caleb prior\desktop\opengl_labs\lab2\math_funcs.cpp(533): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\caleb prior\desktop\opengl_labs\lab2\math_funcs.cpp(535): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\caleb prior\desktop\opengl_labs\lab2\math_funcs.cpp(536): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\caleb prior\desktop\opengl_labs\lab2\math_funcs.cpp(537): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\caleb prior\desktop\opengl_labs\lab2\math_funcs.cpp(538): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\caleb prior\desktop\opengl_labs\lab2\math_funcs.cpp(581): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\caleb prior\desktop\opengl_labs\lab2\math_funcs.cpp(582): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\caleb prior\desktop\opengl_labs\lab2\math_funcs.cpp(647): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\caleb prior\desktop\opengl_labs\lab2\math_funcs.cpp(648): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\caleb prior\desktop\opengl_labs\lab2\math_funcs.cpp(649): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\caleb prior\desktop\opengl_labs\lab2\math_funcs.cpp(650): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\caleb prior\desktop\opengl_labs\lab2\math_funcs.cpp(655): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\caleb prior\desktop\opengl_labs\lab2\math_funcs.cpp(695): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\caleb prior\desktop\opengl_labs\lab2\math_funcs.cpp(721): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\caleb prior\desktop\opengl_labs\lab2\math_funcs.cpp(731): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\caleb prior\desktop\opengl_labs\lab2\math_funcs.cpp(732): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\caleb prior\desktop\opengl_labs\lab2\math_funcs.cpp(733): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Lab2.vcxproj -> C:\Users\Caleb Prior\Desktop\OpenGL_Labs\Debug\Lab2.exe
+  Lab2.vcxproj -> C:\Users\Caleb Prior\Desktop\OpenGL_Labs\Debug\Lab2.pdb (Partial PDB)

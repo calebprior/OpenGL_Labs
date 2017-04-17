@@ -1,0 +1,51 @@
+﻿  Main.cpp
+c:\users\caleb prior\desktop\graphics_labs\graphics_labs\game\shader.h(12): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\caleb prior\desktop\graphics_labs\graphics_labs\game\light.h(30): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\caleb prior\desktop\graphics_labs\graphics_labs\game\map.h(79): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\caleb prior\desktop\graphics_labs\graphics_labs\game\map.h(92): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\caleb prior\desktop\graphics_labs\graphics_labs\game\map.h(93): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\caleb prior\desktop\graphics_labs\graphics_labs\game\map.h(186): warning C4018: '<': signed/unsigned mismatch
+c:\users\caleb prior\desktop\graphics_labs\graphics_labs\game\map.h(204): warning C4018: '<': signed/unsigned mismatch
+c:\users\caleb prior\desktop\graphics_labs\graphics_labs\game\map.h(205): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\caleb prior\desktop\graphics_labs\graphics_labs\game\map.h(206): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\caleb prior\desktop\graphics_labs\graphics_labs\game\map.h(219): warning C4018: '>=': signed/unsigned mismatch
+c:\users\caleb prior\desktop\graphics_labs\graphics_labs\game\map.h(224): warning C4018: '>=': signed/unsigned mismatch
+c:\users\caleb prior\desktop\graphics_labs\graphics_labs\game\map.h(235): warning C4018: '>': signed/unsigned mismatch
+c:\users\caleb prior\desktop\graphics_labs\graphics_labs\game\main.cpp(192): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\caleb prior\desktop\graphics_labs\graphics_labs\game\main.cpp(204): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\caleb prior\desktop\graphics_labs\graphics_labs\game\main.cpp(209): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\caleb prior\desktop\graphics_labs\graphics_labs\game\main.cpp(211): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\caleb prior\desktop\graphics_labs\graphics_labs\game\main.cpp(242): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\caleb prior\desktop\graphics_labs\graphics_labs\game\main.cpp(245): warning C4018: '<': signed/unsigned mismatch
+c:\users\caleb prior\desktop\graphics_labs\graphics_labs\game\main.cpp(274): warning C4018: '<': signed/unsigned mismatch
+c:\users\caleb prior\desktop\graphics_labs\graphics_labs\game\main.cpp(315): warning C4018: '<': signed/unsigned mismatch
+c:\users\caleb prior\desktop\graphics_labs\graphics_labs\game\main.cpp(326): warning C4018: '<': signed/unsigned mismatch
+c:\users\caleb prior\desktop\graphics_labs\graphics_labs\game\main.cpp(380): warning C4018: '<': signed/unsigned mismatch
+c:\users\caleb prior\desktop\graphics_labs\graphics_labs\game\main.cpp(390): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\caleb prior\desktop\graphics_labs\graphics_labs\game\main.cpp(400): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\caleb prior\desktop\graphics_labs\graphics_labs\game\main.cpp(408): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\caleb prior\desktop\graphics_labs\graphics_labs\game\main.cpp(416): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\caleb prior\desktop\graphics_labs\graphics_labs\game\main.cpp(425): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\caleb prior\desktop\graphics_labs\graphics_labs\game\main.cpp(439): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\caleb prior\desktop\graphics_labs\graphics_labs\game\main.cpp(446): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\caleb prior\desktop\graphics_labs\graphics_labs\game\main.cpp(453): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\caleb prior\desktop\graphics_labs\graphics_labs\game\main.cpp(460): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\caleb prior\desktop\graphics_labs\graphics_labs\game\main.cpp(469): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\caleb prior\desktop\graphics_labs\graphics_labs\game\main.cpp(501): warning C4018: '<': signed/unsigned mismatch
+c:\users\caleb prior\desktop\graphics_labs\graphics_labs\game\main.cpp(552): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\caleb prior\desktop\graphics_labs\graphics_labs\game\main.cpp(556): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\caleb prior\desktop\graphics_labs\graphics_labs\game\main.cpp(560): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\caleb prior\desktop\graphics_labs\graphics_labs\game\main.cpp(564): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\caleb prior\desktop\graphics_labs\graphics_labs\game\main.cpp(569): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\caleb prior\desktop\graphics_labs\graphics_labs\game\main.cpp(573): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\caleb prior\desktop\graphics_labs\graphics_labs\game\main.cpp(634): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\caleb prior\desktop\graphics_labs\graphics_labs\game\main.cpp(646): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\caleb prior\desktop\graphics_labs\graphics_labs\game\main.cpp(647): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\caleb prior\desktop\graphics_labs\graphics_labs\game\main.cpp(655): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\caleb prior\desktop\graphics_labs\graphics_labs\game\main.cpp(656): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\caleb prior\desktop\graphics_labs\graphics_labs\game\main.cpp(663): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\caleb prior\desktop\graphics_labs\graphics_labs\game\main.cpp(664): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\caleb prior\desktop\graphics_labs\graphics_labs\game\main.cpp(672): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\caleb prior\desktop\graphics_labs\graphics_labs\game\main.cpp(697): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Game.vcxproj -> C:\Users\Caleb Prior\Desktop\Graphics_Labs\Graphics_Labs\Debug\Game.exe
+  Game.vcxproj -> C:\Users\Caleb Prior\Desktop\Graphics_Labs\Graphics_Labs\Debug\Game.pdb (Partial PDB)

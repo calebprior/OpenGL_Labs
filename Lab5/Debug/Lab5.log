@@ -1,0 +1,4 @@
+﻿  Lab5.cpp
+c:\users\caleb prior\desktop\graphics_labs\graphics_labs\lab5\lab5.cpp(270): warning C4305: 'argument': truncation from 'double' to 'float'
+  Lab5.vcxproj -> C:\Users\Caleb Prior\Desktop\Graphics_Labs\Graphics_Labs\Debug\Lab5.exe
+  Lab5.vcxproj -> C:\Users\Caleb Prior\Desktop\Graphics_Labs\Graphics_Labs\Debug\Lab5.pdb (Partial PDB)

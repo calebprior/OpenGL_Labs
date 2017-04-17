@@ -1,0 +1,45 @@
+// Vertex shader
+
+#version 330 
+layout (location = 0) in vec3 position;
+layout (location = 1) in vec3 normal;
+layout (location = 2) in vec2 texCoords;
+layout (loCation = 3) in vec3 tangent;
+
+uniform mat4 model;
+uniform mat4 view;
+uniform mat4 projection;
+
+
+out vec2 TexCoords;
+out vec3 FragPosition;
+out vec3 Normal;
+out vec3 ModelView;
+out mat3 TBN;
+
+uniform bool reverse_normals;
+
+void main()
+{
+	vec4 pos = vec4(position, 1.0f);
+
+    gl_Position = projection * view * model * pos;
+
+    FragPosition = vec3(model * pos);
+
+    Normal = transpose(inverse(mat3(model))) * normal;
+
+    TexCoords = texCoords;
+
+	ModelView = vec3(view * model * pos);
+
+	vec3 T = normalize(vec3(model * vec4(tangent, 0.0)));
+	vec3 N = normalize(vec3(model * vec4(normal, 0.0)));
+
+	// re-orthogonalize T with respect to N
+	T = normalize(T - dot(T, N) * N);
+	// then retrieve perpendicular vector B with the cross product of T and N
+	vec3 B = cross(T, N);
+
+	TBN = mat3(T, B, N);
+}
